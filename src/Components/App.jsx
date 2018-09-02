@@ -1,4 +1,6 @@
-import Re`a`ct, {Component} from 'react'
+
+import React, {Component} from 'react'
+
 import BoaNoite, {BomDia, BoaTarde} from './Day.jsx'
 import Saudation from './Saudation'
 import Father from './Father'
